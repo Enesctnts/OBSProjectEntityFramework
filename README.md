@@ -1,1 +1,2 @@
-# OBS projesi. Devam ediyorum.
+# 
+OBS projesi. Devam ediyorum.
