@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace EntityFrameworkProject
+namespace EntityFrameworkProject.Model
 {
     using System;
     
