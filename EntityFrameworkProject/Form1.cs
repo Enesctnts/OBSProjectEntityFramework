@@ -149,6 +149,7 @@ namespace EntityFrameworkProject
             {
                 List<TBLOGRENCİ> liste1 = db.TBLOGRENCİ.OrderBy(p => p.AD).ToList();
                 dgwGoster.DataSource = liste1;
+
             }
             if (rbtn2.Checked)
             {
